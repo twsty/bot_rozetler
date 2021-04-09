@@ -29,5 +29,5 @@ permLevel: 0,  //kimler kullanabilir message.js de ya da main dosyanızda permle
 aliases: ["komutun 2. isminı yazın", "3.isim diye gidiyor"]
 };
 exports.help = {
-name: "rozetler4"
+name: "rozetler"
 };
